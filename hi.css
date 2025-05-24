@@ -1,0 +1,14 @@
+.grid{
+
+
+    display: grid;
+    border:     10px solid rgb(185, 13, 13);
+grid-template-columns: repeat(4,1fr);
+border-style: dotted;
+background-color: aqua;
+row-gap: 10px;
+    column-gap: 10px;
+    padding: 10px;
+    margin: 10px;
+    
+}
